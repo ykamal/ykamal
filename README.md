@@ -1,6 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m @ykamal<br>👀 I’m interested in most things software engineering (except cryptocurrencies)<br>🌱 I’m currently learning Systems Design<br>💞️ I’m looking to collaborate on useful opensource codebases<br>📫 Reach me at <https://ykamal.com>
+![Deno](https://webpets-flame.vercel.app/generated/deno/green_run_8fps.gif)
 
+👋 Hi, I’m @ykamal<br>👀 I’m interested in most things software engineering (except cryptocurrencies)<br>🌱 I’m currently learning Systems Design<br>💞️ I’m looking to collaborate on useful opensource codebases<br>📫 Reach me at <https://ykamal.com>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousof-kamal) 
